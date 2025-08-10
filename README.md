@@ -23,14 +23,3 @@ The program provides hints if the guess is too high or too low, and ends when th
    python guessing_game.py
 
 
-||----------------------------------------------||
-               NUMBER GUESSING GAME              
-||----------------------------------------------||
-Enter a number between 1 and 100
-Enter your guess: 50
-Too Low
-Enter your guess: 75
-Too High
-Enter your guess: 62
-Correct Number is 62
-
